@@ -102,7 +102,8 @@
 - [whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command-line tool based on CTranslate2, compatible with the original.
 - [insanely-fast-whisper-cli](https://github.com/ochen1/insanely-fast-whisper-cli) - Achieve transcription speeds near 30x real-time with several optimizations.
 - [whisper-diarization](https://github.com/MahmoudAshraf97/whisper-diarization) - Automatic speech recognition with speaker diarization.
-- [hns](https://github.com/primaprashant/hns) - On-device speech-to-text CLI using faster-whisper with automatic clipboard copy.- [add-srt-next-to-videos](https://github.com/yuyangchee98/add-srt-next-to-videos) - Generate subtitle files next to video files using local MLX Whisper and LLM translation.
+- [hns](https://github.com/primaprashant/hns) - On-device speech-to-text CLI using faster-whisper with automatic clipboard copy.
+- [add-srt-next-to-videos](https://github.com/yuyangchee98/add-srt-next-to-videos) - Generate subtitle files next to video files using local MLX Whisper and local LLM translation. Supports dual or single language subs.
 
 ## Playgrounds
 
